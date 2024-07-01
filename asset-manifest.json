@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/login-page/static/css/main.55d5dd8a.css",
+    "main.js": "/login-page/static/js/main.ad7acd82.js",
+    "static/js/453.a104ba29.chunk.js": "/login-page/static/js/453.a104ba29.chunk.js",
+    "static/media/boxicons.svg": "/login-page/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/login-page/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/login-page/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/login-page/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/login-page/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/bid4assets.jpg": "/login-page/static/media/bid4assets.9ee5bcaf22de6e2e5bbf.jpg",
+    "static/media/machinio.jpg": "/login-page/static/media/machinio.50e4b12bbfc549d4d88f.jpg",
+    "index.html": "/login-page/index.html",
+    "main.55d5dd8a.css.map": "/login-page/static/css/main.55d5dd8a.css.map",
+    "main.ad7acd82.js.map": "/login-page/static/js/main.ad7acd82.js.map",
+    "453.a104ba29.chunk.js.map": "/login-page/static/js/453.a104ba29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55d5dd8a.css",
+    "static/js/main.ad7acd82.js"
+  ]
+}
