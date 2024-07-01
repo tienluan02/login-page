@@ -124,11 +124,12 @@ body {
     padding-right: 4rem;
     padding-bottom: 1rem;
     justify-content: space-between;
-    border-bottom: solid 1px #d9d9d9;
+    box-shadow: 0 2px 4px #0003;
 }
 
 .button ul li:hover {
     cursor: pointer;
+    color: #61a6c9;
 }
 
 .button ul li {
